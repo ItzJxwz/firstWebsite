@@ -1,0 +1,89 @@
+/*Simple Horizonal Naviation*/
+/*
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li{
+  display: inline-block;
+  margin-right: 20px;
+}*/
+
+/*AI generated header that will probably look so cool. ------------------------------------------------*/
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #171717; /* Light red */
+    color: #ffffff;
+    padding: 10px;
+}
+
+.site-title {
+    font-size: 2.1em;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/*|------------------------------------------------------------| The end of AI header. */
+/*Below is the color of the text-----------------------------------------------------------------*/
+p{
+  color: 
+#000000;
+}
+
+p{
+  color: #000000
+#000000;
+}
+/*Below is the color of the background.---------------------------------------------------*/
+body{
+  background-color: 
+#0023ea;
+}
+
+body{
+  background-color: 
+rgb(234, 255, 0);
+}
+/*Below is the resizing of the font---------------------------------------------------------------------|*/
+html{
+  font-size: 100%;
+}
+
+h1{
+  font-size: 3rem;
+}
+h2{
+  font-size: 3rem;
+}
+p{
+    font-family: Impact, Haettenschweiler, sans-serif;
+    color: #000000;
+}
+/*Image resize-----------------------------------------*/
+img, video{
+	max-width: 100%;
+	height: auto;
+}
+
+}
